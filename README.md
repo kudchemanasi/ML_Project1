@@ -45,5 +45,19 @@ git push origin main
 
 ```
 
+To setup CI/CD pipeline in heroku we need 3 information
+
+1. HEROKU_EMAIL 
+2. HEROKU_API_KEY 
+3. HEROKU_APP_NAME 
+
+BUILD DOCKER IMAGE
+```
+docker build -t <image_name>:<tagname> .
+```
+
+NOTE: Image name for docker must be lowercase
+
+
 
 
