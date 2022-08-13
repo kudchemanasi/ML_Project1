@@ -81,6 +81,12 @@ docker stop <container_id>
 
 ```
 
+Instead of writing requirement file
+```
+python setup.py install
+
+```
+
 
 
 
