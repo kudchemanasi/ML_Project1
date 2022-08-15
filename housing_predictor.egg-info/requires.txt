@@ -1,6 +1,5 @@
-Flask 
+Flask
 gunicorn
 sklearn
 pandas
 numpy
--e .

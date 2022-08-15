@@ -9,9 +9,15 @@ def get_requirements_list()->List[str]:
     return This function is going to return a list which containsname of libraries mentioned in requirements.txtfile 
 
     """
-     
+    HYPHEN_E_DOT = "-e ." 
+    #with open(REQUIREMENT_FILE_NAME) as requirement_file:
+        #requirement_file.readlines().remove("-e .")
     with open(REQUIREMENT_FILE_NAME) as requirement_file:
-        requirement_file.readline()
+        requirement_list = requirement_file.readlines()
+        requirement_list = [requirement_name.replace("\n", "") for requirement_name in requirement_list]
+        if HYPHEN_E_DOT in requirement_list:
+            requirement_list.remove(HYPHEN_E_DOT)
+        return requirement_list
 
 # Declaring variables for setup functions
 PROJECT_NAME = "housing-predictor"
