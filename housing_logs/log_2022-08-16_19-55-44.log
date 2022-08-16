@@ -1,0 +1,8 @@
+[2022-08-16 19:55:44,203] werkzeug - WARNING -  * Debugger is active!
+[2022-08-16 19:55:44,208] werkzeug - INFO -  * Debugger PIN: 330-354-700
+[2022-08-16 19:55:44,244] werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2022-08-16 19:56:01,311] root - INFO - We are testing logging module
+[2022-08-16 19:56:01,311] werkzeug - INFO - 127.0.0.1 - - [16/Aug/2022 19:56:01] "[37mGET / HTTP/1.1[0m" 200 -
+[2022-08-16 19:56:01,410] werkzeug - INFO - 127.0.0.1 - - [16/Aug/2022 19:56:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2022-08-16 19:58:07,072] werkzeug - INFO -  * Detected change in 'E:\\ML_Project1\\app.py', reloading
+[2022-08-16 19:58:07,077] werkzeug - INFO -  * Detected change in 'E:\\ML_Project1\\app.py', reloading

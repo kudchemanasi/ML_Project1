@@ -1,0 +1,7 @@
+[2022-08-16 18:26:00,462] werkzeug - WARNING -  * Debugger is active!
+[2022-08-16 18:26:00,471] werkzeug - INFO -  * Debugger PIN: 330-354-700
+[2022-08-16 18:26:00,500] werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2022-08-16 18:26:04,945] werkzeug - INFO -  * Detected change in 'C:\\Users\\dell\\anaconda3\\pkgs\\python-3.9.7-h6244533_1\\Lib\\collections\\__pycache__\\abc.cpython-39.pyc', reloading
+[2022-08-16 18:26:04,946] werkzeug - INFO -  * Detected change in 'C:\\Users\\dell\\anaconda3\\pkgs\\python-3.9.7-h6244533_1\\Lib\\collections\\__pycache__\\abc.cpython-39.pyc', reloading
+[2022-08-16 18:26:04,947] werkzeug - INFO -  * Detected change in 'C:\\Users\\dell\\anaconda3\\pkgs\\python-3.9.7-h6244533_1\\Lib\\collections\\__pycache__\\__init__.cpython-39.pyc', reloading
+[2022-08-16 18:26:04,947] werkzeug - INFO -  * Detected change in 'C:\\Users\\dell\\anaconda3\\pkgs\\python-3.9.7-h6244533_1\\Lib\\collections\\__pycache__\\__init__.cpython-39.pyc', reloading

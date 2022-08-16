@@ -1,0 +1,18 @@
+[2022-08-16 18:26:06,592] werkzeug - WARNING -  * Debugger is active!
+[2022-08-16 18:26:06,607] werkzeug - INFO -  * Debugger PIN: 330-354-700
+[2022-08-16 18:26:06,639] werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2022-08-16 18:26:07,008] werkzeug - INFO -  * Detected change in 'C:\\Users\\dell\\anaconda3\\pkgs\\python-3.9.7-h6244533_1\\Lib\\importlib\\__pycache__\\abc.cpython-39.pyc', reloading
+[2022-08-16 18:26:07,008] werkzeug - INFO -  * Detected change in 'C:\\Users\\dell\\anaconda3\\pkgs\\python-3.9.7-h6244533_1\\Lib\\importlib\\__pycache__\\abc.cpython-39.pyc', reloading
+[2022-08-16 18:26:07,009] werkzeug - INFO -  * Detected change in 'C:\\Users\\dell\\anaconda3\\pkgs\\python-3.9.7-h6244533_1\\Lib\\importlib\\__pycache__\\machinery.cpython-39.pyc', reloading
+[2022-08-16 18:26:07,010] werkzeug - INFO -  * Detected change in 'C:\\Users\\dell\\anaconda3\\pkgs\\python-3.9.7-h6244533_1\\Lib\\importlib\\__pycache__\\machinery.cpython-39.pyc', reloading
+[2022-08-16 18:26:07,010] werkzeug - INFO -  * Detected change in 'C:\\Users\\dell\\anaconda3\\pkgs\\python-3.9.7-h6244533_1\\Lib\\importlib\\__pycache__\\util.cpython-39.pyc', reloading
+[2022-08-16 18:26:07,011] werkzeug - INFO -  * Detected change in 'C:\\Users\\dell\\anaconda3\\pkgs\\python-3.9.7-h6244533_1\\Lib\\importlib\\__pycache__\\__init__.cpython-39.pyc', reloading
+[2022-08-16 18:26:07,011] werkzeug - INFO -  * Detected change in 'C:\\Users\\dell\\anaconda3\\pkgs\\python-3.9.7-h6244533_1\\Lib\\importlib\\__pycache__\\__init__.cpython-39.pyc', reloading
+[2022-08-16 18:26:07,014] werkzeug - INFO -  * Detected change in 'C:\\Users\\dell\\anaconda3\\pkgs\\python-3.9.7-h6244533_1\\Lib\\json\\__pycache__\\decoder.cpython-39.pyc', reloading
+[2022-08-16 18:26:07,014] werkzeug - INFO -  * Detected change in 'C:\\Users\\dell\\anaconda3\\pkgs\\python-3.9.7-h6244533_1\\Lib\\json\\__pycache__\\decoder.cpython-39.pyc', reloading
+[2022-08-16 18:26:07,015] werkzeug - INFO -  * Detected change in 'C:\\Users\\dell\\anaconda3\\pkgs\\python-3.9.7-h6244533_1\\Lib\\json\\__pycache__\\encoder.cpython-39.pyc', reloading
+[2022-08-16 18:26:07,016] werkzeug - INFO -  * Detected change in 'C:\\Users\\dell\\anaconda3\\pkgs\\python-3.9.7-h6244533_1\\Lib\\json\\__pycache__\\encoder.cpython-39.pyc', reloading
+[2022-08-16 18:26:07,016] werkzeug - INFO -  * Detected change in 'C:\\Users\\dell\\anaconda3\\pkgs\\python-3.9.7-h6244533_1\\Lib\\json\\__pycache__\\scanner.cpython-39.pyc', reloading
+[2022-08-16 18:26:07,016] werkzeug - INFO -  * Detected change in 'C:\\Users\\dell\\anaconda3\\pkgs\\python-3.9.7-h6244533_1\\Lib\\json\\__pycache__\\scanner.cpython-39.pyc', reloading
+[2022-08-16 18:26:07,017] werkzeug - INFO -  * Detected change in 'C:\\Users\\dell\\anaconda3\\pkgs\\python-3.9.7-h6244533_1\\Lib\\json\\__pycache__\\__init__.cpython-39.pyc', reloading
+[2022-08-16 18:26:07,017] werkzeug - INFO -  * Detected change in 'C:\\Users\\dell\\anaconda3\\pkgs\\python-3.9.7-h6244533_1\\Lib\\json\\__pycache__\\__init__.cpython-39.pyc', reloading

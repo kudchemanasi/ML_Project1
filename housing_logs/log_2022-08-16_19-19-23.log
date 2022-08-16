@@ -1,0 +1,7 @@
+[2022-08-16 19:19:23,530] werkzeug - WARNING -  * Debugger is active!
+[2022-08-16 19:19:23,541] werkzeug - INFO -  * Debugger PIN: 330-354-700
+[2022-08-16 19:19:23,576] werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2022-08-16 19:20:36,788] werkzeug - INFO -  * Detected change in 'C:\\Users\\dell\\anaconda3\\Lib\\email\\__pycache__\\message.cpython-38.pyc', reloading
+[2022-08-16 19:20:36,789] werkzeug - INFO -  * Detected change in 'C:\\Users\\dell\\anaconda3\\Lib\\__pycache__\\uu.cpython-38.pyc', reloading
+[2022-08-16 19:20:36,790] werkzeug - INFO -  * Detected change in 'C:\\Users\\dell\\anaconda3\\Lib\\email\\__pycache__\\_encoded_words.cpython-38.pyc', reloading
+[2022-08-16 19:20:36,791] werkzeug - INFO -  * Detected change in 'C:\\Users\\dell\\anaconda3\\Lib\\email\\__pycache__\\iterators.cpython-38.pyc', reloading
