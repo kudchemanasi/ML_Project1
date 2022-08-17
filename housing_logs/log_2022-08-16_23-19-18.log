@@ -1,0 +1,4 @@
+[2022-08-16 23:19:18,744] werkzeug - WARNING -  * Debugger is active!
+[2022-08-16 23:19:18,761] werkzeug - INFO -  * Debugger PIN: 330-354-700
+[2022-08-16 23:19:18,794] werkzeug - INFO -  * Detected change in 'C:\\Users\\dell\\anaconda3\\Lib\\__pycache__\\stringprep.cpython-38.pyc', reloading
+[2022-08-16 23:19:18,803] werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
